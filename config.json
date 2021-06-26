@@ -1,0 +1,1 @@
+{"mongo_db": "auth", "mongo_host": "localhost", "mongo_port": 27017, "secret_value": "secret_value", "redis_host": "localhost", "redis_port": 6379, "redis_db": 1}
